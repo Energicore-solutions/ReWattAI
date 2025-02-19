@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 30.7178,
+        "lat": 36.7741
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 14.49,
+        "feels_like": 12.91,
+        "temp_min": 14.22,
+        "temp_max": 14.49,
+        "pressure": 1014,
+        "humidity": 35,
+        "sea_level": 1014,
+        "grnd_level": 1004
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 8.75,
+        "deg": 320
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1739983592,
+    "sys": {
+        "type": 2,
+        "id": 2042930,
+        "country": "TR",
+        "sunrise": 1739940062,
+        "sunset": 1739979673
+    },
+    "timezone": 10800,
+    "id": 323776,
+    "name": "Antalya Province",
+    "cod": 200
+}

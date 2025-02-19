@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "predict_w.py",
+        "use": "@vercel/python"
+      }
+    ]
+  }
+  
