@@ -1,9 +1,16 @@
 {
-    "builds": [
-      {
-        "src": "predict_w.py",
-        "use": "@vercel/python"
-      }
-    ]
-  }
+  "builds": [
+    {
+      "src": "e.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "e.py"
+    }
+  ]
+}
+
   
